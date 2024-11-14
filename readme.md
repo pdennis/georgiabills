@@ -1,4 +1,4 @@
-```markdown
+
 # Legislative Journal Vote Extractor
 
 Extracts roll call votes from Georgia Senate/House journals and generates bill summaries using GPT-4.
